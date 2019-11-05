@@ -1,5 +1,7 @@
 # Convert Angular NgRx App to NgRx-Data App
 
+![Time Travel Debugger](/images/Time_Travel_Debugger.png)
+
 Instructions:
 1) Clone the repository
 2) Run: npm install
