@@ -1,5 +1,4 @@
-# angular-ngrx-converted-to-ngrx-data-app
-Convert Angular NgRx App to NgRx-Data App
+# Convert Angular NgRx App to NgRx-Data App
 
 Instructions:
 1) Clone the repository
