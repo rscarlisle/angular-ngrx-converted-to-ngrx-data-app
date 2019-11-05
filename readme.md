@@ -1,4 +1,4 @@
-# Convert Angular NgRx App to NgRx-Data App
+# Angular NgRx App to NgRx-Data App Conversion
 
 ![Time Travel Debugger](/src/images/Time_Travel_Debugger.png)
 
